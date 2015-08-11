@@ -1,0 +1,12 @@
+c:\users\a1618\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\a1618\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\a1618\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\MultiTaskbarClock.exe.config
+C:\Users\a1618\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\MultiTaskbarClock.exe
+C:\Users\a1618\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\MultiTaskbarClock.pdb
+C:\Users\a1618\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\MultiTaskbarClock.xml
+C:\Users\a1618\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\MultiTaskbarClock.Form1.resources
+C:\Users\a1618\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\MultiTaskbarClock.Resources.resources
+C:\Users\a1618\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\MultiTaskbarClock.Options.resources
+C:\Users\a1618\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\MultiTaskbarClock.exe
+C:\Users\a1618\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\MultiTaskbarClock.xml
+C:\Users\a1618\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\MultiTaskbarClock.pdb
