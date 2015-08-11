@@ -89,8 +89,4 @@
             e.SuppressKeyPress = True
         End If
     End Sub
-
-    Private Sub AutoRunCheck_CheckedChanged(sender As Object, e As EventArgs)
-
-    End Sub
 End Class

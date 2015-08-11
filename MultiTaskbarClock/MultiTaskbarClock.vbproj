@@ -122,6 +122,12 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Control.vb" />
+    <Compile Include="CalendarForm.Designer.vb">
+      <DependentUpon>CalendarForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CalendarForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -147,6 +153,9 @@
   <ItemGroup>
     <EmbeddedResource Include="ClockForm.resx">
       <DependentUpon>ClockForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalendarForm.resx">
+      <DependentUpon>CalendarForm.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

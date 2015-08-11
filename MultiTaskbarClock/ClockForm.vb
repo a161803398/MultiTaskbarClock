@@ -1,7 +1,6 @@
 ﻿Public Class ClockForm
 
     Function updateTime() As Boolean
-
         Label1.Text = DateTime.Now.ToString(My.Settings.Item("format1")) & vbNewLine & DateTime.Now.ToString(My.Settings.Item("format2"))
 
         'Label1.Text = DateTime.Now.ToString("T") & vbNewLine & DateTime.Now.ToString("yyyy/MM/dd(ddd)")
@@ -36,9 +35,16 @@
         OptForm.Location = Me.Location - New Point(300 - Label1.Size.Width, 200)
     End Sub
 
-    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
+
+    Private Sub Label1_MouseClick(sender As Object, e As MouseEventArgs) Handles Label1.MouseClick
         noOptForm = False
-        OptForm.Show()
-        OptForm.Location = Me.Location - New Point(300 - Label1.Size.Width, 200)
+
+        If (e.Button = MouseButtons.Left) Then
+            CalendarForm.Show()
+            CalendarForm.Location = Me.Location - New Point(220 - Label1.Size.Width, 170)
+        Else
+            OptForm.Show()
+            OptForm.Location = Me.Location - New Point(300 - Label1.Size.Width, 200)
+        End If
     End Sub
 End Class

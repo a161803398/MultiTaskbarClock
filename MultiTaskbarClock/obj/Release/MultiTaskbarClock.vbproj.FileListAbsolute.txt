@@ -16,3 +16,7 @@ C:\Users\a1618\Documents\Visual Studio 2015\Projects\MultiTaskbarClock\MultiTask
 C:\Users\a1618\Documents\Visual Studio 2015\Projects\MultiTaskbarClock\MultiTaskbarClock\obj\Release\MultiTaskbarClock.exe.manifest
 C:\Users\a1618\Documents\Visual Studio 2015\Projects\MultiTaskbarClock\MultiTaskbarClock\obj\Release\MultiTaskbarClock.application
 C:\Users\a1618\Documents\Visual Studio 2015\Projects\MultiTaskbarClock\MultiTaskbarClock\obj\Release\MultiTaskbarClock.vbprojResolveAssemblyReference.cache
+C:\Users\a1618\Documents\Visual Studio 2015\Projects\MultiTaskbarClock\MultiTaskbarClock\obj\Release\MultiTaskbarClock.CalendarForm.resources
+C:\Users\a1618\Documents\GitHub\MultiTaskbarClock\MultiTaskbarClock\bin\Release\MultiTaskbarClock.exe.config
+C:\Users\a1618\Documents\GitHub\MultiTaskbarClock\MultiTaskbarClock\obj\Release\MultiTaskbarClock.exe
+C:\Users\a1618\Documents\GitHub\MultiTaskbarClock\MultiTaskbarClock\obj\Release\MultiTaskbarClock.pdb

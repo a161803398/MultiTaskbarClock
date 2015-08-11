@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MultiTaskbarClock.exe" size="32704">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MultiTaskbarClock.exe" size="34240">
       <assemblyIdentity name="MultiTaskbarClock" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FtkI31h+cq+SFPMdbSAH84VsGbf3QPV5df5l73r6ZTg=</dsig:DigestValue>
+        <dsig:DigestValue>EMe6TM49pXfSUxAh8H3CVxe2pRaUuzXFlDZ2ZNp8Z6I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>l+d4qKnIfOqGcq9Kwz9mwEDAr5IcVa+mHGwPPTZG79g=</dsig:DigestValue>
+        <dsig:DigestValue>hV0cSAALXbAwUp+UZJj9H/OyPtHyGAsyBRYiU6s6Oow=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
