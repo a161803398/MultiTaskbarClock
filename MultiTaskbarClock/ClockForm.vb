@@ -37,14 +37,16 @@
 
 
     Private Sub Label1_MouseClick(sender As Object, e As MouseEventArgs) Handles Label1.MouseClick
-        noOptForm = False
+        If (noOptForm) Then
+            noOptForm = False
 
-        If (e.Button = MouseButtons.Left) Then
-            CalendarForm.Show()
-            CalendarForm.Location = Me.Location - New Point(220 - Label1.Size.Width, 170)
-        Else
-            OptForm.Show()
-            OptForm.Location = Me.Location - New Point(300 - Label1.Size.Width, 200)
+            If (e.Button = MouseButtons.Left) Then
+                CalendarForm.Show()
+                CalendarForm.Location = Me.Location - New Point(220 - Label1.Size.Width, 170)
+            Else
+                OptForm.Show()
+                OptForm.Location = Me.Location - New Point(300 - Label1.Size.Width, 200)
+            End If
         End If
     End Sub
 End Class
