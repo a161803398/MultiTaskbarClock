@@ -1,4 +1,6 @@
-﻿Public Class ClockForm
+﻿Imports System.ComponentModel
+
+Public Class ClockForm
 
     Function updateTime() As Boolean
         Label1.Text = DateTime.Now.ToString(My.Settings.Item("format1")) & vbNewLine & DateTime.Now.ToString(My.Settings.Item("format2"))
@@ -48,5 +50,10 @@
                 OptForm.Location = Me.Location - New Point(300 - Label1.Size.Width, 200)
             End If
         End If
+    End Sub
+
+
+    Private Sub ClockForm_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing
+        e.Cancel = True
     End Sub
 End Class
